@@ -2,7 +2,7 @@
 
 Sitio web oficial de **FORANGEL**, un emprendimiento dedicado al desarrollo de software a medida para negocios, profesionales y emprendedores.
 
-## 🚀 Sobre el proyecto
+## Sobre el proyecto
 
 FORANGEL desarrolla soluciones digitales adaptadas a las necesidades de cada cliente, buscando simplificar tareas, optimizar procesos y mejorar la productividad.
 
@@ -10,13 +10,13 @@ Además del desarrollo de la solución, ofrecemos **capacitación gratuita para 
 
 ### Servicios
 
-- 💻 Desarrollo de software a medida
-- 🌐 Desarrollo de páginas web
-- ⚙️ Sistemas de gestión
-- 🔄 Automatización de procesos
-- 🎓 Capacitación gratuita sobre las soluciones desarrolladas
+- Desarrollo de software a medida
+- Desarrollo de páginas web
+- Sistemas de gestión
+- Automatización de procesos
+- Capacitación gratuita sobre las soluciones desarrolladas
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3
@@ -24,7 +24,7 @@ Además del desarrollo de la solución, ofrecemos **capacitación gratuita para 
 - Bootstrap Icons
 - EmailJS
 
-## ✨ Características del sitio
+## Características del sitio
 
 - Diseño responsive para dispositivos móviles, tablets y escritorio.
 - Modo claro y oscuro.
@@ -36,7 +36,7 @@ Además del desarrollo de la solución, ofrecemos **capacitación gratuita para 
 - Animaciones y transiciones.
 - Diseño orientado a una experiencia de usuario sencilla y moderna.
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 FORANGEL---Web/
@@ -57,7 +57,10 @@ FORANGEL---Web/
 
 > La estructura puede variar según las modificaciones y nuevas funcionalidades incorporadas al proyecto.
 
-## 📩 Contacto
+## Acceso al sitio
+[FORANGEL WEB](https://forangel-uy.github.io/FORANGEL-WEB/)
+
+## Contacto
 
 Si tenés una idea, necesitás una herramienta para tu negocio o querés mejorar un proceso mediante software, podés comunicarte con FORANGEL a través del sitio web.
 
